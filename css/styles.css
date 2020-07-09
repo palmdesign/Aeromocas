@@ -95,8 +95,6 @@ transform: translatey(-20%);
 }
 
   body {
-    
-    
     /*
     COM BACKGROUND PARA PC LAPTOP
     background-position-x: 20%;  
@@ -156,14 +154,14 @@ transform: translatey(-20%);
    body a{
     color: #fff;
     text-decoration: none;  
-    transition: 2s;
+    transition: 2.5s;
     transform: translateX(-800%);
     -webkit-transform: translateX(-800%);
-    animation: slide-in 2s forwards;
-    -webkit-animation: slide-in 2s forwards;
-    -webkit-transform-delay: 2.5s;
-    -webkit-animation-delay: 2.5s;
-    animation-delay: 2.5s;
+    animation: slide-in 2.5s forwards;
+    -webkit-animation: slide-in 2.5s forwards;
+    -webkit-transform-delay: 1.5s;
+    -webkit-animation-delay: 1.5s;
+    animation-delay: 1.5s;
   }
   
 /*color:#A6A6A6; */
